@@ -1,0 +1,8 @@
+D:\Essential_CSharp\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\Essential_CSharp\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\Essential_CSharp\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Essential_CSharp\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\Essential_CSharp\Triangle\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\Essential_CSharp\Triangle\Triangle\obj\Debug\Triangle.pdb
