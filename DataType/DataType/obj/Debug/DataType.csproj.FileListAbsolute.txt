@@ -1,0 +1,8 @@
+D:\Essential_CSharp\DataType\DataType\bin\Debug\DataType.exe.config
+D:\Essential_CSharp\DataType\DataType\bin\Debug\DataType.exe
+D:\Essential_CSharp\DataType\DataType\bin\Debug\DataType.pdb
+D:\Essential_CSharp\DataType\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+D:\Essential_CSharp\DataType\DataType\obj\Debug\DataType.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\DataType\DataType\obj\Debug\DataType.exe
+D:\Essential_CSharp\DataType\DataType\obj\Debug\DataType.pdb

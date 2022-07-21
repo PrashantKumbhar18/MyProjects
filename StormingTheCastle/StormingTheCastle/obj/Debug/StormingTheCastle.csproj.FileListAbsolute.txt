@@ -1,0 +1,8 @@
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\bin\Debug\StormingTheCastle.exe.config
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\bin\Debug\StormingTheCastle.exe
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\bin\Debug\StormingTheCastle.pdb
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\obj\Debug\StormingTheCastle.csproj.AssemblyReference.cache
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\obj\Debug\StormingTheCastle.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\obj\Debug\StormingTheCastle.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\obj\Debug\StormingTheCastle.exe
+D:\Essential_CSharp\StormingTheCastle\StormingTheCastle\obj\Debug\StormingTheCastle.pdb
