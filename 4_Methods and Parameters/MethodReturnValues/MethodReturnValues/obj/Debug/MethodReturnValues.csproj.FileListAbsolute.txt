@@ -1,0 +1,8 @@
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\bin\Debug\MethodReturnValues.exe.config
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\bin\Debug\MethodReturnValues.exe
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\bin\Debug\MethodReturnValues.pdb
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\obj\Debug\MethodReturnValues.csproj.AssemblyReference.cache
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\obj\Debug\MethodReturnValues.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\obj\Debug\MethodReturnValues.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\obj\Debug\MethodReturnValues.exe
+D:\Essential_CSharp\4_Methods and Parameters\MethodReturnValues\MethodReturnValues\obj\Debug\MethodReturnValues.pdb

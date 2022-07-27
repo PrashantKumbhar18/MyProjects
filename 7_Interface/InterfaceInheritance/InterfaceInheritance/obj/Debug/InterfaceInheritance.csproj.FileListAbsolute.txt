@@ -1,0 +1,8 @@
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.AssemblyReference.cache
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe.config
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+D:\Essential_CSharp\7_Interface\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb

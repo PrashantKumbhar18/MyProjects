@@ -1,0 +1,8 @@
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.AssemblyReference.cache
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.exe.config
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.exe
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.pdb
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.exe
+D:\Essential_CSharp\7_Interface\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.pdb

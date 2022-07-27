@@ -1,0 +1,8 @@
+D:\Essential_CSharp\miracleMax\miracleMax\bin\Debug\miracleMax.exe.config
+D:\Essential_CSharp\miracleMax\miracleMax\bin\Debug\miracleMax.exe
+D:\Essential_CSharp\miracleMax\miracleMax\bin\Debug\miracleMax.pdb
+D:\Essential_CSharp\miracleMax\miracleMax\obj\Debug\miracleMax.csproj.AssemblyReference.cache
+D:\Essential_CSharp\miracleMax\miracleMax\obj\Debug\miracleMax.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\miracleMax\miracleMax\obj\Debug\miracleMax.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\miracleMax\miracleMax\obj\Debug\miracleMax.exe
+D:\Essential_CSharp\miracleMax\miracleMax\obj\Debug\miracleMax.pdb

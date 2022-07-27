@@ -1,0 +1,8 @@
+D:\Essential_CSharp\staticDirective\staticDirective\bin\Debug\staticDirective.exe.config
+D:\Essential_CSharp\staticDirective\staticDirective\bin\Debug\staticDirective.exe
+D:\Essential_CSharp\staticDirective\staticDirective\bin\Debug\staticDirective.pdb
+D:\Essential_CSharp\staticDirective\staticDirective\obj\Debug\staticDirective.csproj.AssemblyReference.cache
+D:\Essential_CSharp\staticDirective\staticDirective\obj\Debug\staticDirective.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\staticDirective\staticDirective\obj\Debug\staticDirective.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\staticDirective\staticDirective\obj\Debug\staticDirective.exe
+D:\Essential_CSharp\staticDirective\staticDirective\obj\Debug\staticDirective.pdb

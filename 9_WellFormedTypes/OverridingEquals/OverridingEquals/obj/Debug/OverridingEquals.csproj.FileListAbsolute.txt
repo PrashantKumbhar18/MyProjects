@@ -1,0 +1,8 @@
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\bin\Debug\OverridingEquals.exe.config
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\bin\Debug\OverridingEquals.exe
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\bin\Debug\OverridingEquals.pdb
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\obj\Debug\OverridingEquals.csproj.AssemblyReference.cache
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\obj\Debug\OverridingEquals.csproj.SuggestedBindingRedirects.cache
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\obj\Debug\OverridingEquals.csproj.CoreCompileInputs.cache
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\obj\Debug\OverridingEquals.exe
+D:\C#_Projects\9_WellFormedTypes\OverridingEquals\OverridingEquals\obj\Debug\OverridingEquals.pdb

@@ -1,0 +1,8 @@
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\obj\Debug\ImplementingGetHashCode.csproj.AssemblyReference.cache
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\obj\Debug\ImplementingGetHashCode.csproj.SuggestedBindingRedirects.cache
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\obj\Debug\ImplementingGetHashCode.csproj.CoreCompileInputs.cache
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\bin\Debug\ImplementingGetHashCode.exe.config
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\bin\Debug\ImplementingGetHashCode.exe
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\bin\Debug\ImplementingGetHashCode.pdb
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\obj\Debug\ImplementingGetHashCode.exe
+D:\C#_Projects\9_WellFormedTypes\ImplementingGetHashCode\ImplementingGetHashCode\obj\Debug\ImplementingGetHashCode.pdb

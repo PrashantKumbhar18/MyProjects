@@ -1,0 +1,8 @@
+D:\Essential_CSharp\HeyYou\HeyYou\bin\Debug\HeyYou.exe.config
+D:\Essential_CSharp\HeyYou\HeyYou\bin\Debug\HeyYou.exe
+D:\Essential_CSharp\HeyYou\HeyYou\bin\Debug\HeyYou.pdb
+D:\Essential_CSharp\HeyYou\HeyYou\obj\Debug\HeyYou.csproj.AssemblyReference.cache
+D:\Essential_CSharp\HeyYou\HeyYou\obj\Debug\HeyYou.csproj.SuggestedBindingRedirects.cache
+D:\Essential_CSharp\HeyYou\HeyYou\obj\Debug\HeyYou.csproj.CoreCompileInputs.cache
+D:\Essential_CSharp\HeyYou\HeyYou\obj\Debug\HeyYou.exe
+D:\Essential_CSharp\HeyYou\HeyYou\obj\Debug\HeyYou.pdb
